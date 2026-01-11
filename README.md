@@ -22,5 +22,8 @@ It covers NumPy basics, array operations, mathematical functions, and practical 
 - Random number generation
 - NumPy vs Python lists
 - Practice problems & examples
-  <img width="217" height="232" alt="image" src="https://github.com/user-attachments/assets/99245573-372e-4ff7-a35d-6c16e9e0a07f" />
+
+
+<img width="900" height="298" alt="image" src="https://github.com/user-attachments/assets/a94c51b3-cdb6-45ca-be64-d280b8d33aa4" />
+
 
